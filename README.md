@@ -114,7 +114,7 @@ Fullstack Developer
 
 <!-- studio:socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tramella"><img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/badge-linkedin-flat-square.svg?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tramella-tran-149437332"><img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/badge-linkedin-flat-square.svg?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://tramella-profile.vercel.app/"><img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/badge-website-flat-square.svg?style=flat-square" alt="Website" /></a>
   <a href="mailto:tramella@example.com"><img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/badge-email-flat-square.svg?style=flat-square" alt="Email" /></a>
 </p>
