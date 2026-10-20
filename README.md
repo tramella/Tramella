@@ -97,8 +97,8 @@ Fullstack Developer
     <img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/card-repo-eltromartplus-light.svg?username=tramella&repo=EltromartPlus" alt="EltromartPlus" />
   </picture></a>
   <a href="https://github.com/MinhHieu0412/ResQ"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/card-repo-resq-dark.svg?username=tramella&repo=resq" />
-    <img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/card-repo-resq-light.svg?username=tramella&repo=resq" alt="resq" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/card-repo-resq-dark.svg?username=MinhHieu0412&repo=ResQ" />
+    <img src="https://raw.githubusercontent.com/tramella/tramella/main/profile-assets/card-repo-resq-light.svg?username=MinhHieu0412&repo=ResQ" alt="ResQ" />
   </picture></a>
 </p>
 
